@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output artifacts
+samples/output/*
+!samples/output/.gitkeep
